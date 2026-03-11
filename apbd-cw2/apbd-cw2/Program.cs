@@ -15,4 +15,9 @@ static double CalculateMax(int[] values)
     return values.Max();
 }
 
+static double CalculateMin(int[] values)
+{
+    return 0;
+}
+
 Console.WriteLine("Ex6 commit changes");
