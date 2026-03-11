@@ -22,4 +22,4 @@ static double CalculateMin(int[] values)
 
 Console.WriteLine("Ex6 commit changes");
 
-int x = 30;
+int x =20;
