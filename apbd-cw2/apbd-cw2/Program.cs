@@ -9,3 +9,8 @@ static double CalculateAverage(int[] values)
 {
     return values.Average();
 }
+
+static double CalculateMax(int[] values)
+{
+    return values.Max();
+}
